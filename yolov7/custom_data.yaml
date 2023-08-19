@@ -1,0 +1,9 @@
+train: ./data/train
+val: ./data/val
+test: ./data/test
+
+# number of classes
+nc: 3
+
+# class names
+names: ['Trybom', 'Karny', 'Hood']
