@@ -12,6 +12,7 @@
 https://github.com/WongKinYiu/yolov7
 
 **詳細的程式碼修改請至我的hackmd**
+
 https://hackmd.io/@bhIA534oS4WfxIHxC2EFfA/r1WMd493j/%2FtWpevlu7SrGZvEZuN8VWxw
 
 原始掃描影像:
