@@ -11,6 +11,9 @@
 由中研院王建堯在2022年7月發表YOLOv7論文，並推出原始碼如下:
 https://github.com/WongKinYiu/yolov7
 
+**詳細的程式碼修改請至我的hackmd**
+https://hackmd.io/@bhIA534oS4WfxIHxC2EFfA/r1WMd493j/%2FtWpevlu7SrGZvEZuN8VWxw
+
 原始掃描影像:
 ![image](https://github.com/Teng91/Tari/blob/main/img1.jpg)
 切割並經過YOLOv7訓練後的合併影像:
