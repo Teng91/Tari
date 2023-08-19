@@ -12,4 +12,4 @@
 https://github.com/WongKinYiu/yolov7
 
 ![image](https://github.com/Teng91/Tari/blob/main/img1.jpg)
-![image](https://github.com/Teng91/Tari/blob/main/merged_image_1.jpg)
+![image](https://github.com/Teng91/Tari/blob/main/merged_img1.jpg)
