@@ -10,3 +10,6 @@
 ## YOLOv7 object detector 
 由中研院王建堯在2022年7月發表YOLOv7論文，並推出原始碼如下:
 https://github.com/WongKinYiu/yolov7
+
+![image](https://github.com/Teng91/Tari/blob/main/img1.jpg)
+![image](https://github.com/Teng91/Tari/blob/main/merged_image_1.jpg)
