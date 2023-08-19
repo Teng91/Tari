@@ -1,6 +1,7 @@
 # Tari
-由臺灣大學生物機電工程研究所與農業部農業試驗所合作之計畫
-分為兩個階段
+由臺灣大學生物機電工程研究所與農業部農業試驗所合作之計畫，其中兩個子計畫:
+1. 自動化高解析度薊馬類害蟲辨識系統，搭配使用者介面
+2. 自動化高解析度核可蘭園內害蟲辨識系統
 ## Target species of Thrips
 - *Thrips palmi* Karny 南黃薊馬
 - *Frankliniella intonsa* Trybom 臺灣花薊馬
